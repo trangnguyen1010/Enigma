@@ -26,7 +26,7 @@
     "elliptic": "6.4.0",
     "eth-crypto": "^1.2.2",
     "ethereumjs-abi": "^0.6.5",
-    "node-forge": "^0.7.5",
+    "node-forge": "^1.0.0",
     "truffle-contract": "^3.0.6",
     "web3": "^1.0.0-beta.34",
     "web3-utils": "1.0.0-beta.34",
